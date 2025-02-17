@@ -70,14 +70,14 @@
   - В файле `script.js` создаю новые перменные оператором `let`
 ```js
 let name = "Артур";
-let birthYear = 2005;
-let isStudent = true;
+let b_year = 2005;
+let student = true;
 ```
   - Вывожу на консоль текст + значения переменных 
 ```js
 console.log("Имя:", name);
-console.log("Год рождения:", birthYear);
-console.log("Учится?:", isStudent);
+console.log("Год рождения:", b_year);
+console.log("Учится?:", student);
 ```
 
 6. **Создание условных операторов**
